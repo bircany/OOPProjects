@@ -1,0 +1,7 @@
+C:\Users\birca\source\repos\OOP\OOP.Interface.IEnumerableApp\bin\Debug\OOP.Interface.IEnumerableApp.exe.config
+C:\Users\birca\source\repos\OOP\OOP.Interface.IEnumerableApp\bin\Debug\OOP.Interface.IEnumerableApp.exe
+C:\Users\birca\source\repos\OOP\OOP.Interface.IEnumerableApp\bin\Debug\OOP.Interface.IEnumerableApp.pdb
+C:\Users\birca\source\repos\OOP\OOP.Interface.IEnumerableApp\obj\Debug\OOP.Interface.IEnumerableApp.csproj.AssemblyReference.cache
+C:\Users\birca\source\repos\OOP\OOP.Interface.IEnumerableApp\obj\Debug\OOP.Interface.IEnumerableApp.csproj.CoreCompileInputs.cache
+C:\Users\birca\source\repos\OOP\OOP.Interface.IEnumerableApp\obj\Debug\OOP.Interface.IEnumerableApp.exe
+C:\Users\birca\source\repos\OOP\OOP.Interface.IEnumerableApp\obj\Debug\OOP.Interface.IEnumerableApp.pdb

@@ -1,0 +1,7 @@
+C:\Users\birca\source\repos\OOP\OOP.Interfaces.ICloneableApp\bin\Debug\OOP.Interfaces.ICloneableApp.exe.config
+C:\Users\birca\source\repos\OOP\OOP.Interfaces.ICloneableApp\bin\Debug\OOP.Interfaces.ICloneableApp.exe
+C:\Users\birca\source\repos\OOP\OOP.Interfaces.ICloneableApp\bin\Debug\OOP.Interfaces.ICloneableApp.pdb
+C:\Users\birca\source\repos\OOP\OOP.Interfaces.ICloneableApp\obj\Debug\OOP.Interfaces.ICloneableApp.csproj.AssemblyReference.cache
+C:\Users\birca\source\repos\OOP\OOP.Interfaces.ICloneableApp\obj\Debug\OOP.Interfaces.ICloneableApp.csproj.CoreCompileInputs.cache
+C:\Users\birca\source\repos\OOP\OOP.Interfaces.ICloneableApp\obj\Debug\OOP.Interfaces.ICloneableApp.exe
+C:\Users\birca\source\repos\OOP\OOP.Interfaces.ICloneableApp\obj\Debug\OOP.Interfaces.ICloneableApp.pdb

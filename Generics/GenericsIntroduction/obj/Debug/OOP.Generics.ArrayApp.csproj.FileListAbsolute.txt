@@ -1,0 +1,7 @@
+C:\Users\birca\source\repos\OOP\OOP.Generics\bin\Debug\OOP.Generics.exe.config
+C:\Users\birca\source\repos\OOP\OOP.Generics\bin\Debug\OOP.Generics.exe
+C:\Users\birca\source\repos\OOP\OOP.Generics\bin\Debug\OOP.Generics.pdb
+C:\Users\birca\source\repos\OOP\OOP.Generics\obj\Debug\OOP.Generics.ArrayApp.csproj.AssemblyReference.cache
+C:\Users\birca\source\repos\OOP\OOP.Generics\obj\Debug\OOP.Generics.ArrayApp.csproj.CoreCompileInputs.cache
+C:\Users\birca\source\repos\OOP\OOP.Generics\obj\Debug\OOP.Generics.exe
+C:\Users\birca\source\repos\OOP\OOP.Generics\obj\Debug\OOP.Generics.pdb

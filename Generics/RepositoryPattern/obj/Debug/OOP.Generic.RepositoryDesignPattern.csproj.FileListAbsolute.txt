@@ -1,0 +1,7 @@
+C:\Users\birca\source\repos\OOP\OOP.Generic.RepositoryDesignPattern\obj\Debug\OOP.Generic.RepositoryDesignPattern.csproj.AssemblyReference.cache
+C:\Users\birca\source\repos\OOP\OOP.Generic.RepositoryDesignPattern\obj\Debug\OOP.Generic.RepositoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\birca\source\repos\OOP\OOP.Generic.RepositoryDesignPattern\bin\Debug\OOP.Generic.RepositoryDesignPattern.exe.config
+C:\Users\birca\source\repos\OOP\OOP.Generic.RepositoryDesignPattern\bin\Debug\OOP.Generic.RepositoryDesignPattern.exe
+C:\Users\birca\source\repos\OOP\OOP.Generic.RepositoryDesignPattern\bin\Debug\OOP.Generic.RepositoryDesignPattern.pdb
+C:\Users\birca\source\repos\OOP\OOP.Generic.RepositoryDesignPattern\obj\Debug\OOP.Generic.RepositoryDesignPattern.exe
+C:\Users\birca\source\repos\OOP\OOP.Generic.RepositoryDesignPattern\obj\Debug\OOP.Generic.RepositoryDesignPattern.pdb

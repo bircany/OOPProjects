@@ -1,0 +1,7 @@
+C:\Users\birca\source\repos\OOP\OOP.Interfaces.IComparableApp\bin\Debug\OOP.Interfaces.IComparableApp.exe.config
+C:\Users\birca\source\repos\OOP\OOP.Interfaces.IComparableApp\bin\Debug\OOP.Interfaces.IComparableApp.exe
+C:\Users\birca\source\repos\OOP\OOP.Interfaces.IComparableApp\bin\Debug\OOP.Interfaces.IComparableApp.pdb
+C:\Users\birca\source\repos\OOP\OOP.Interfaces.IComparableApp\obj\Debug\OOP.Interfaces.IComparableApp.csproj.AssemblyReference.cache
+C:\Users\birca\source\repos\OOP\OOP.Interfaces.IComparableApp\obj\Debug\OOP.Interfaces.IComparableApp.csproj.CoreCompileInputs.cache
+C:\Users\birca\source\repos\OOP\OOP.Interfaces.IComparableApp\obj\Debug\OOP.Interfaces.IComparableApp.exe
+C:\Users\birca\source\repos\OOP\OOP.Interfaces.IComparableApp\obj\Debug\OOP.Interfaces.IComparableApp.pdb

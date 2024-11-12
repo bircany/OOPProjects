@@ -1,0 +1,7 @@
+C:\Users\birca\source\repos\OOP\OOP.Introduction.BankApp\bin\Debug\OOP.Introduction.BankApp.exe.config
+C:\Users\birca\source\repos\OOP\OOP.Introduction.BankApp\bin\Debug\OOP.Introduction.BankApp.exe
+C:\Users\birca\source\repos\OOP\OOP.Introduction.BankApp\bin\Debug\OOP.Introduction.BankApp.pdb
+C:\Users\birca\source\repos\OOP\OOP.Introduction.BankApp\obj\Debug\BankApp.csproj.AssemblyReference.cache
+C:\Users\birca\source\repos\OOP\OOP.Introduction.BankApp\obj\Debug\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\birca\source\repos\OOP\OOP.Introduction.BankApp\obj\Debug\OOP.Introduction.BankApp.exe
+C:\Users\birca\source\repos\OOP\OOP.Introduction.BankApp\obj\Debug\OOP.Introduction.BankApp.pdb

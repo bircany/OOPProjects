@@ -1,0 +1,7 @@
+C:\Users\birca\source\repos\OOP\OOP.Interface\bin\Debug\OOP.Interface.exe.config
+C:\Users\birca\source\repos\OOP\OOP.Interface\bin\Debug\OOP.Interface.exe
+C:\Users\birca\source\repos\OOP\OOP.Interface\bin\Debug\OOP.Interface.pdb
+C:\Users\birca\source\repos\OOP\OOP.Interface\obj\Debug\OOP.Interface.csproj.AssemblyReference.cache
+C:\Users\birca\source\repos\OOP\OOP.Interface\obj\Debug\OOP.Interface.csproj.CoreCompileInputs.cache
+C:\Users\birca\source\repos\OOP\OOP.Interface\obj\Debug\OOP.Interface.exe
+C:\Users\birca\source\repos\OOP\OOP.Interface\obj\Debug\OOP.Interface.pdb

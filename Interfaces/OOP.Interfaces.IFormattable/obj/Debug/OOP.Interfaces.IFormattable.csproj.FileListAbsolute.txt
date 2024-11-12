@@ -1,0 +1,7 @@
+C:\Users\birca\source\repos\OOP\OOP.Interfaces.IFormattable\bin\Debug\OOP.Interfaces.IFormattable.exe.config
+C:\Users\birca\source\repos\OOP\OOP.Interfaces.IFormattable\bin\Debug\OOP.Interfaces.IFormattable.exe
+C:\Users\birca\source\repos\OOP\OOP.Interfaces.IFormattable\bin\Debug\OOP.Interfaces.IFormattable.pdb
+C:\Users\birca\source\repos\OOP\OOP.Interfaces.IFormattable\obj\Debug\OOP.Interfaces.IFormattable.csproj.AssemblyReference.cache
+C:\Users\birca\source\repos\OOP\OOP.Interfaces.IFormattable\obj\Debug\OOP.Interfaces.IFormattable.csproj.CoreCompileInputs.cache
+C:\Users\birca\source\repos\OOP\OOP.Interfaces.IFormattable\obj\Debug\OOP.Interfaces.IFormattable.exe
+C:\Users\birca\source\repos\OOP\OOP.Interfaces.IFormattable\obj\Debug\OOP.Interfaces.IFormattable.pdb

@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DAL",
+    "\\DAL\\Abstract",
+    "\\DAL\\Concrete",
+    "\\Entities\\Abstract",
+    "\\Entities\\Concrete"
+  ],
+  "SelectedNode": "\\DAL\\Concrete\\ProductDal.cs",
+  "PreviewInSolutionExplorer": false
+}

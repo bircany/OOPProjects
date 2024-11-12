@@ -1,0 +1,7 @@
+C:\Users\birca\source\repos\OOP\OOP.Interfaces.IComparableGeneric\bin\Debug\OOP.Interfaces.IComparableGeneric.exe.config
+C:\Users\birca\source\repos\OOP\OOP.Interfaces.IComparableGeneric\bin\Debug\OOP.Interfaces.IComparableGeneric.exe
+C:\Users\birca\source\repos\OOP\OOP.Interfaces.IComparableGeneric\bin\Debug\OOP.Interfaces.IComparableGeneric.pdb
+C:\Users\birca\source\repos\OOP\OOP.Interfaces.IComparableGeneric\obj\Debug\OOP.Interfaces.IComparableGeneric.csproj.AssemblyReference.cache
+C:\Users\birca\source\repos\OOP\OOP.Interfaces.IComparableGeneric\obj\Debug\OOP.Interfaces.IComparableGeneric.csproj.CoreCompileInputs.cache
+C:\Users\birca\source\repos\OOP\OOP.Interfaces.IComparableGeneric\obj\Debug\OOP.Interfaces.IComparableGeneric.exe
+C:\Users\birca\source\repos\OOP\OOP.Interfaces.IComparableGeneric\obj\Debug\OOP.Interfaces.IComparableGeneric.pdb

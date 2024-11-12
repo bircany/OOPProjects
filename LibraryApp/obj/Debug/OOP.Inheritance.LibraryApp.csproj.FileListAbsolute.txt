@@ -1,0 +1,7 @@
+C:\Users\birca\source\repos\OOP\OOP.Inheritance.LibraryApp\bin\Debug\OOP.Inheritance.LibraryApp.exe.config
+C:\Users\birca\source\repos\OOP\OOP.Inheritance.LibraryApp\bin\Debug\OOP.Inheritance.LibraryApp.exe
+C:\Users\birca\source\repos\OOP\OOP.Inheritance.LibraryApp\bin\Debug\OOP.Inheritance.LibraryApp.pdb
+C:\Users\birca\source\repos\OOP\OOP.Inheritance.LibraryApp\obj\Debug\OOP.Inheritance.LibraryApp.csproj.AssemblyReference.cache
+C:\Users\birca\source\repos\OOP\OOP.Inheritance.LibraryApp\obj\Debug\OOP.Inheritance.LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\birca\source\repos\OOP\OOP.Inheritance.LibraryApp\obj\Debug\OOP.Inheritance.LibraryApp.exe
+C:\Users\birca\source\repos\OOP\OOP.Inheritance.LibraryApp\obj\Debug\OOP.Inheritance.LibraryApp.pdb

@@ -1,0 +1,7 @@
+C:\Users\birca\source\repos\OOP\OOP.Interface.LooselyCoupled\bin\Debug\OOP.Interface.LooselyCoupled.exe.config
+C:\Users\birca\source\repos\OOP\OOP.Interface.LooselyCoupled\bin\Debug\OOP.Interface.LooselyCoupled.exe
+C:\Users\birca\source\repos\OOP\OOP.Interface.LooselyCoupled\bin\Debug\OOP.Interface.LooselyCoupled.pdb
+C:\Users\birca\source\repos\OOP\OOP.Interface.LooselyCoupled\obj\Debug\OOP.Interface.LooselyCoupled.csproj.AssemblyReference.cache
+C:\Users\birca\source\repos\OOP\OOP.Interface.LooselyCoupled\obj\Debug\OOP.Interface.LooselyCoupled.csproj.CoreCompileInputs.cache
+C:\Users\birca\source\repos\OOP\OOP.Interface.LooselyCoupled\obj\Debug\OOP.Interface.LooselyCoupled.exe
+C:\Users\birca\source\repos\OOP\OOP.Interface.LooselyCoupled\obj\Debug\OOP.Interface.LooselyCoupled.pdb
